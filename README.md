@@ -1,2 +1,2 @@
-# random-movie-suggestions-by-genres
+# random-movie-suggestions
 Recommend movies by genres.
